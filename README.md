@@ -1,10 +1,10 @@
 ### Olá, tudo bem? Meu nome é Alexandre Luchetti.
 
 </br><strong>#Info</strong>
-</br></br><strong>Cidade: </strong>Ribeirão Preto
-</br><strong>Idade: </strong>29 anos
-</br><strong>Linguagens: </strong> JAVA, Javascript, HTML e CSS
-</br><strong>Especialização: </strong> Full stack <i>(Step Computer Academy e Alura)</i>
+</br></br><strong>- Cidade: </strong>Ribeirão Preto
+</br><strong>- Idade: </strong>29 anos
+</br><strong>- Linguagens: </strong> JAVA, Javascript, HTML e CSS
+</br><strong>- Especialização: </strong> Full stack <i>(Step Computer Academy e Alura)</i>
 
 <!--
 **alexandreluchetti/alexandreluchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
