@@ -5,7 +5,11 @@
 <br/><strong>- Cidade: </strong>Ribeirão Preto-SP
 <br/><strong>- Linguagens: </strong> JAVA, Javascript, HTML e CSS
 <br/><strong>- Especialização: </strong> Full stack <i>(Step Computer Academy e Alura)</i>
-<br/><strong>- Idiomas: </strong> Português - <i>lingua nativa C2</i> | Inglês - <i>Fluente C2</i> | Espanhol - <i>B2</i>
+<br/><strong>- Idiomas: </strong><ul>
+  <li class="list-group-item">Português - <i>lingua nativa C2</i></li>
+  <li class="list-group-item">Inglês - <i>Fluente C2</i></li>
+  <li class="list-group-item">Espanhol - <i>B2</i></li>
+  </ul>
 
 <!--
 **alexandreluchetti/alexandreluchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
