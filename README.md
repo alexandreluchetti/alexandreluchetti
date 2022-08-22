@@ -3,7 +3,7 @@
 <br/><strong>#Info</strong><br/>
 <br/><strong>- Idade: </strong>29 anos
 <br/><strong>- Cidade: </strong>Ribeirão Preto-SP
-<br/><strong>- Linguagens: </strong> JAVA, Javascript, HTML e CSS
+<br/><strong>- JAVA, Javascript, HTML, CSS e MySQL</strong>
 <br/><strong>- Especialização: </strong> Full stack <i>(Step Computer Academy e Alura)</i>
 <br/><strong>- Idiomas: </strong><ul>
   <li class="list-group-item">Português - <i>C2 (lingua nativa)</i></li>
