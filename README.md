@@ -1,7 +1,7 @@
 ### Olá, tudo bem? Meu nome é Alexandre Luchetti.
 
 <br/><strong>#Info</strong><br/>
-<br/><strong>- Idade: </strong>29 anos
+<br/><strong>- Idade: </strong>30 anos
 <br/><strong>- Cidade: </strong>Ribeirão Preto-SP
 <br/><strong>- JAVA, Javascript, HTML, CSS e MySQL</strong>
 <br/><strong>- Especialização: </strong> Full stack <i>(Step Computer Academy e Alura)</i>
