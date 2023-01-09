@@ -1,9 +1,7 @@
 <p><strong>"Hello there!!!!"</strong></p>
+<p>Eu sou o <i>Alexandre Luchetti</i>.</p>
 
-Eu sou o Alexandre Luchetti.
-
-<br/><strong>#Info</strong><br/>
-<br/><strong>- Data de nascimento: </strong>10/07/1992
+<strong>- Data de nascimento: </strong>10/07/1992
 <br/><strong>- Cidade: </strong>Ribeirão Preto-SP
 <br/><strong>- Especialização: </strong> Full stack <i>(<strong>Step Computer Academy e Alura</strong>)</i>
 <br/><strong>- Idiomas: </strong><ul>
@@ -24,15 +22,15 @@ Eu sou o Alexandre Luchetti.
 
 </br>
 
-<div align="">
-  <a href="https://github.com/alexandreluchetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandreluchetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-##
- 
 <div> 
   <a href="https://www.linkedin.com/in/alexandreluchetti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:luchetti.92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alexandreluchetti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+</div>
+
+</br>
+
+<div align="">
+  <a href="https://github.com/alexandreluchetti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandreluchetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
