@@ -1,5 +1,4 @@
-<p><strong>"Hello there!!!!"</strong></p>
-<p>Eu sou o <i>Alexandre Luchetti</i>.</p>
+<p><strong>"Hello there!"</strong></p>
 
 <strong>- Data de nascimento: </strong>10/07/1992
 <br/><strong>- Cidade: </strong>Ribeirão Preto-SP
