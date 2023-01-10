@@ -27,10 +27,3 @@
   <a href = "mailto:luchetti.92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alexandreluchetti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
-
-</br>
-
-<div align="">
-  <a href="https://github.com/alexandreluchetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandreluchetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
