@@ -1,5 +1,7 @@
 <p><strong>"Hello there!"</strong></p>
 
+<p><i><a href="https://www.linkedin.com/in/alexandreluchetti/details/certifications/">Clique aqui</a> para ver meus certificados!</i></p>
+
 <strong>- Data de nascimento: </strong>10/07/1992
 <br/><strong>- Cidade: </strong>Ribeirão Preto-SP
 <br/><strong>- Especialização: </strong> Full stack <i>(<strong>Step Computer Academy e Alura</strong>)</i>
@@ -8,7 +10,6 @@
   <li class="list-group-item">Inglês - <i>C2 (Fluente)</i></li>
   <li class="list-group-item">Espanhol - <i>B2</i></li>
   </ul>
-  
   
 
 <div style="display: inline_block"><br>
