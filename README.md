@@ -4,13 +4,14 @@
 
 <strong>- Data de nascimento: </strong>10/07/1992
 <br/><strong>- Cidade: </strong>Ribeirão Preto-SP
-<br/><strong>- Especialização: </strong> Full stack <i>(<strong>Step Computer Academy e Alura</strong>)</i>
-<br/><strong>- Idiomas: </strong><ul>
+<br/><strong>- Idiomas: </strong>
+<ul>
   <li class="list-group-item">Português - <i>C2 (lingua nativa)</i></li>
   <li class="list-group-item">Inglês - <i>C2 (Fluente)</i></li>
   <li class="list-group-item">Espanhol - <i>B2</i></li>
-  </ul>
+</ul>
   
+<br/><strong>Alura | Step Computer Academy</strong> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alexandre-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
