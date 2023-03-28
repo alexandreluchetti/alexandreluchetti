@@ -1,17 +1,16 @@
 <p><strong>"Hello there!"</strong></p>
 
-<p><i><a href="https://www.linkedin.com/in/alexandreluchetti/details/certifications/">Clique aqui</a> para ver meus certificados!</i></p>
-
-<strong>- Data de nascimento: </strong>10/07/1992
-<br/><strong>- Cidade: </strong>Ribeirão Preto-SP
-<br/><strong>- Idiomas: </strong>
+<strong>Data de nascimento: </strong>10/07/1992
+<br/><strong>Cidade: </strong>Ribeirão Preto-SP
+<br/><strong>Idiomas: </strong>
 <ul>
   <li class="list-group-item">Português - <i>C2 (lingua nativa)</i></li>
   <li class="list-group-item">Inglês - <i>C2 (Fluente)</i></li>
-  <li class="list-group-item">Espanhol - <i>B2</i></li>
+  <li class="list-group-item">Espanhol - <i>B2 (Básico)</i></li>
 </ul>
   
 <br/><strong>Alura | Step Computer Academy</strong> 
+<p><i><a href="https://www.linkedin.com/in/alexandreluchetti/details/certifications/">Clique aqui</a> para ver meus certificados!</i></p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alexandre-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
