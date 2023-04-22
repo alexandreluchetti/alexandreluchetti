@@ -11,8 +11,6 @@
 
 </br>
 
-<p>Alura | Step Computer Academy</p> 
-
 <p><i><a href="https://www.linkedin.com/in/alexandreluchetti/details/certifications/">Clique aqui</a> para ver meus certificados!</i></p>
 
 <h4>JAVA | C# .NET | Javascript | SQL | HTML | CSS</h4>
