@@ -2,9 +2,9 @@
 
 Programador Java<br/>
 
-  <li class="list-group-item">Inglês - <i>C2 (Fluente)</i></li>
-  <li class="list-group-item">Espanhol - <i>B2 (Básico)</i></li>
-  <li class="list-group-item">Português - <i>C2 (lingua nativa)</i></li>
+  <li class="list-group-item">Inglês - Fluente (C2)</li>
+  <li class="list-group-item">Espanhol - Básico (B2)</li>
+  <li class="list-group-item">Português - Língua nativa (C2)</li>
 
 
 </br>
