@@ -1,7 +1,6 @@
 <p><strong>"Hello there!"</strong></p>
 
 Programador Java<br/>
-Ribeirão Preto-SP<br/>
 
   <li class="list-group-item">Inglês - <i>C2 (Fluente)</i></li>
   <li class="list-group-item">Espanhol - <i>B2 (Básico)</i></li>
