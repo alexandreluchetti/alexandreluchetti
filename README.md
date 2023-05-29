@@ -12,7 +12,7 @@ Ribeirão Preto-SP<br/>
 
 <p><i><a href="https://www.linkedin.com/in/alexandreluchetti/details/certifications/">Clique aqui</a> para ver meus certificados!</i></p>
 
-<h4>JAVA | Spring Boot | Javascript | SQL | HTML | CSS</h4>
+<h4>Java | Kotlin | Spring Boot | Javascript | SQL</h4>
 <!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Alexandre-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
