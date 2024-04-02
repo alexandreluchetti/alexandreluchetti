@@ -1,7 +1,5 @@
 <p><strong>"Hello there!"</strong></p>
 
-Tech Lead Java<br/>
-
   <li class="list-group-item">Inglês - Fluente (C2)</li>
   <li class="list-group-item">Espanhol - Básico (B2)</li>
   <li class="list-group-item">Português - Língua nativa (C2)</li>
