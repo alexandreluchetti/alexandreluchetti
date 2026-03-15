@@ -1,13 +1,13 @@
 <p><strong>"Hello there!"</strong></p>
 
-  <li class="list-group-item">Inglês - Fluente (C2)</li>
-  <li class="list-group-item">Espanhol - Básico (B2)</li>
-  <li class="list-group-item">Português - Língua nativa (C2)</li>
+  <li class="list-group-item">English - Fluent (C1)</li>
+  <li class="list-group-item">Spanish - Basic (B2)</li>
+  <li class="list-group-item">Porgtuguese - Native language (C2)</li>
 
 
 </br>
 
-<p><i><a href="https://www.linkedin.com/in/alexandreluchetti/details/certifications/">Clique aqui</a> para ver meus certificados!</i></p>
+<p><i><a href="https://www.linkedin.com/in/alexandreluchetti/details/certifications/">Click here to go to certifications!</a></i></p>
 
 <!--
 <h4>Java | Kotlin | Spring Boot | Javascript | SQL</h4>
