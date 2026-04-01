@@ -7,7 +7,7 @@
 
 </br>
 
-<p><i><a href="https://www.linkedin.com/in/alexandreluchetti/details/certifications/">Click here to go to certifications!</a></i></p>
+<p><i><a href="https://www.linkedin.com/in/alexandreluchetti/details/certifications/">Click here to certifications!</a></i></p>
 
 <!--
 <h4>Java | Kotlin | Spring Boot | Javascript | SQL</h4>
